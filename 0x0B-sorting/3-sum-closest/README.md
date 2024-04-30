@@ -29,4 +29,4 @@ You may assume that each input would have exactly one solution.
 
 + `-1000 <= nums[i] <= 1000`
 
-+ `-104 <= target <= 104`
++ `-10^4 <= target <= 10^4`
