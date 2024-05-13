@@ -18,4 +18,4 @@ class Solution:
 sol = Solution()
 
 # Call the replaceElements method through the instance
-print (sol.replaceElements([17,18,5,4,6,1])) # output: [[18, 6, 6, 6, 1, -1]]
+print(sol.replaceElements([17,18,5,4,6,1])) # output: [[18, 6, 6, 6, 1, -1]]
