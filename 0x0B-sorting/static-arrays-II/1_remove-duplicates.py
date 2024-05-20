@@ -17,4 +17,4 @@ nums = [0,0,1,1,1,2,2,3,3,4]
 new_length = sol.removeDuplicates(nums)
 
 print(new_length) # output: 5
-print("", nums[:new_length]) # output [0,1,2,3,4]
+print("", nums[:new_length]) # output: [0,1,2,3,4]
